@@ -1,1 +1,1 @@
-# CHRONOS-Environment-Orchestrator
+To view the complete interactive Technical Design Document, including raw node architectures and C++ subsystem breakdowns, [read the full CHRONOS documentation here.](https://factual-eyeliner-2de.notion.site/?source=copy_link)
